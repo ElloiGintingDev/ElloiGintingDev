@@ -37,7 +37,7 @@
 
 ---
 ## 🔥 Official Partners
-<img src="https://i.imgur.com/rmELCQb.png" alt="Elloi Ginting Banner" width="80%" />
+<img src="https://cdn.phototourl.com/free/2026-07-21-2091d348-b38b-456a-ad9a-44fca5eb1382.png" alt="Elloi Ginting Banner" width="80%" />
 
 </div>
 

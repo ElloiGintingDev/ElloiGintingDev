@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm **Elloi Ginting**  
 
-🎯 Founder of **ElloStudiosProduction**  
-🎯 Founder of **ESP Network** Minecraft Server
+🎯 Founder of **ElloStudiosProduction**  & Founder of **ESP Network** Minecraft Server
 🌍 Developer from **Indonesia** — passionate about **Minecraft server development**  & **Web Developer** 
 
 ---
